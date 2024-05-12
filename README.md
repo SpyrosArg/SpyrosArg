@@ -1,12 +1,18 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Friend!+👋;+I'm+Spyros!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Friend!+👋;+I'm+Spyros,+Creator+of+Falagka;" />
 </h1>
+
+<p align="center">
+    <a href="https://github.com/YourUsername/Falagka">Visit the Falagka Project Repository</a>
+</p>
 
 <h2 align="center">Languages-Frameworks-Tools</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,graphql,nodejs,javascript,typescript,html,css,tailwind,d3js,git" />
-    <img src="https://skillicons.dev/icons?i=python,r,flask,celery,ariadne,tensorflow,scikitlearn,mysql,mongodb,redis" /><br>
+    <img src="https://skillicons.dev/icons?i=nextjs,react,graphql,nodejs,javascript,typescript,html,css,tailwind" />
+    <img src="https://github.com/YourUsername/YourRepo/blob/main/path/to/d3js.png?raw=true" alt="D3.js" width="60" height="60"/>
+    <img src="https://github.com/YourUsername/YourRepo/blob/main/path/to/celery.png?raw=true" alt="Celery" width="60" height="60"/>
+    <img src="https://skillicons.dev/icons?i=python,r,flask,mysql,mongodb,redis" /><br>
 </div>
 
 <h2 align="center"> 📫 How to reach me:</h2>
@@ -18,3 +24,4 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
+
