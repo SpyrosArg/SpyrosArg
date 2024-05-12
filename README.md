@@ -21,9 +21,10 @@ Here are some ideas to get you started:
 <h2 align="center"> Languages-Frameworks-Tools <h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,git,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=nextjs,react,graphqlnodejs,javascript,typescript,html,css,tailwind,d3js,git/>
+    <img src="https://skillicons.dev/icons?i=python,r,flask,celery,ariadne,tensoflow,scikitlearn,mysql,mongodb,redis/><br>
 </div>
+
    <h2 align="center"> 📫 How to reach me:</h2>
 <div align="center"> 
   <a href="mailto:spyros.argyrakos@gmail.com">
