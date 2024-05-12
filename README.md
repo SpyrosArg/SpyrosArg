@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hello+Friend!;I'm+Spyros;" />
 </h1>
 <h2 align="center">
-    <a href="https://github.com/Falagka">Visit my latest personal project called Falagkay</a>
+    <a href="https://github.com/Falagka">Visit my latest and most advanced personal project called Falagka</a>
 </h2>
 <h2 align="center">Technologies i have worked from 2016</h2>
 <div align="center">
