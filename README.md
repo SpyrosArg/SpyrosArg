@@ -24,7 +24,7 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,git,tailwind,git,r" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,nextjs,mysql,flask" /><br>
 </div>
-    📫 How to reach me:
+   <h2 align="center"> 📫 How to reach me:</h2>
 <div align="center"> 
   <a href="mailto:spyros.argyrakos@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
