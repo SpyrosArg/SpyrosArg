@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-    <a href="https://github.com/SpyrosArg/Falagka">Visit the Falagka Project Repository</a>
+    <a href="https://github.com/Falagka">Visit the Falagka Project Repository</a>
 </p>
 
 <h2 align="center">Languages-Frameworks-Tools</h2>
