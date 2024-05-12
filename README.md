@@ -9,10 +9,8 @@
 <h2 align="center">Languages-Frameworks-Tools</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,graphql,nodejs,javascript,typescript,html,css,tailwind" />
-    <img src="https://github.com/YourUsername/YourRepo/blob/main/path/to/d3js.png?raw=true" alt="D3.js" width="60" height="60"/>
-    <img src="https://github.com/YourUsername/YourRepo/blob/main/path/to/celery.png?raw=true" alt="Celery" width="60" height="60"/>
-    <img src="https://skillicons.dev/icons?i=python,r,flask,mysql,mongodb,redis" /><br>
+    <img src="https://skillicons.dev/icons?i=nextjs,react,graphqlnodejs,javascript,typescript,html,css,tailwind,d3js,git/>
+    <img src="https://skillicons.dev/icons?i=python,r,flask,celery,ariadne,tensoflow,scikitlearn,mysql,mongodb,redis/><br>
 </div>
 
 <h2 align="center"> 📫 How to reach me:</h2>
