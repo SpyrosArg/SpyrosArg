@@ -7,7 +7,7 @@
 <h2 align="center">Languages-Frameworks-Tools</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nextjs,react,graphql,nodejs,javascript,typescript,html,css,tailwind,git" /><br>
-    <img src="https://skillicons.dev/icons?i=python,r,flask,tensorflow,scikitlearn,mysql,mongodb,redis" /><br>
+    <img src="https://skillicons.dev/icons?i=python,r,flask,tensorflow,scikitlearn,mysql,mongodb,redis,docker" /><br>
 </div>
 <br>
 <h2 align="center"> 📫 How to reach me:</h2>
