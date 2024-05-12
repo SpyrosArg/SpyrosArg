@@ -10,11 +10,6 @@
     <img src="https://skillicons.dev/icons?i=python,r,flask,tensorflow,scikitlearn,mysql,mongodb,redis,docker" /><br>
 </div>
 <br>
-<h2 align="center"> In case of emergency </h2>
-<div align="center"> 
-  <a href="mailto:spyros.argyrakos@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
  
 </div>
 
