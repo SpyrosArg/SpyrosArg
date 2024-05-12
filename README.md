@@ -1,18 +1,19 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Friend!+I'm+Spyros,+Creator+of+Falagka;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Friend!+👋;I'm+Spyros,+Creator+of+Falagka;" />
 </h1>
 
+<br>
 <p align="center">
     <a href="https://github.com/Falagka">Visit the Falagka Project Repository</a>
 </p>
-
+<br>
 <h2 align="center">Languages-Frameworks-Tools</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nextjs,react,graphql,nodejs,javascript,typescript,html,css,tailwind,git" /><br>
     <img src="https://skillicons.dev/icons?i=python,r,flask,tensorflow,scikitlearn,mysql,mongodb,redis" /><br>
 </div>
-
+<br>
 <h2 align="center"> 📫 How to reach me:</h2>
 <div align="center"> 
   <a href="mailto:spyros.argyrakos@gmail.com">
