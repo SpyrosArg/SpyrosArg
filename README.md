@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello friend 👋
 
 <!--
 **SpyrosArg/SpyrosArg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center"> Languages-Frameworks-Tools h2>
+<h2 align="center"> Languages-Frameworks-Tools <h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,git,tailwind,git,r" />
