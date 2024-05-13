@@ -2,12 +2,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hello+Friend!;I'm+Spyros;" />
 </h1>
 <h2 align="center">
-    This is my project, Falagka:
+    This is my project, <a href="https://github.com/Falagka">Falagka</a>:
 </h2>
 <p align="center">
-    <a href="https://github.com/Falagka">
-        The Falagka project is specifically engineered to support space industry organizations in comprehending, analyzing, and safeguarding against sophisticated cyber threats that are unique to their sector. By learning directly from hacker attacks, our platform integrates data from a wide array of space industry-specific sources, identifies emerging patterns, and visualizes insights to offer a detailed perspective on the tactics and trends of cyber adversaries targeting space technologies.
-    </a>
+    The Falagka project is specifically engineered to support space industry organizations in comprehending, analyzing, and safeguarding against sophisticated cyber threats that are unique to their sector. By learning directly from hacker attacks, our platform integrates data from a wide array of space industry-specific sources, identifies emerging patterns, and visualizes insights to offer a detailed perspective on the tactics and trends of cyber adversaries targeting space technologies.
 </p>
 <br>
 
@@ -17,5 +15,6 @@
     <img src="https://skillicons.dev/icons?i=python,r,flask,tensorflow,scikitlearn,mysql,mongodb,redis,docker" /><br>
 </div>
 <br>
+
 
 
