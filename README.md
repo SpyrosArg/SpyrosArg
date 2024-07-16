@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hello+Friend!;" />
 </h1>
 <h2 align="center">
-   <a href="https://github.com/Falagka">Click here to see my ai security platform</a>
+   <a href="https://github.com/Falagka" target="_blank">Click here to see my ai security project</a>
 </h2>
 
 <h2 align="center">Technologies i am using</h2>
