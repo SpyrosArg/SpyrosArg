@@ -9,7 +9,7 @@
 </p>
 <br>
 
-<h2 align="center">Technologies involved</h2>
+<h2 align="center">Technologies used</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nextjs,react,graphql,nodejs,javascript,typescript,html,css,tailwind,git" /><br>
     <img src="https://skillicons.dev/icons?i=python,r,flask,tensorflow,scikitlearn,mysql,mongodb,redis,docker" /><br>
