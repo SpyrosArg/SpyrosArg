@@ -5,7 +5,7 @@
        alt="A"
        width="250"
        height="350"
-       style="border-radius: 15px;" />
+       style="border-radius: 35px;" />
 
   <br><br>
 
